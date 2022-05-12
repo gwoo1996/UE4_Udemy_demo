@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B3AD8AAC-4317-4FA1-8993-D19037ACEDCE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FirstProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
